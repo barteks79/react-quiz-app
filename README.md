@@ -5,7 +5,7 @@ Quiz App made with React and Vite
 
 **1. Install** Node.js AND npm OR yarn
 
-**2. Clone respository:** git clone https://github.com/barteks79/react-quiz-app
+**2. Clone respository:** Install git and use: git clone https://github.com/barteks79/react-quiz-app
 
 **3. Use:** cd react-quiz-app
 
