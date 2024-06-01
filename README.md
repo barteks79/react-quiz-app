@@ -1,8 +1,14 @@
-# React + Vite
+# React Quiz App
+Quiz App made with React and Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+***Instructions:***
 
-Currently, two official plugins are available:
+**1. Install** Node.js AND npm OR yarn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**2. Clone respository:** git clone https://github.com/sadeee79/react-quiz-app
+
+**3. Use:** cd react-quiz-app
+
+**4. Use:** npm install OR yarn install
+
+**5. Use:** npm run dev OR yarn dev
