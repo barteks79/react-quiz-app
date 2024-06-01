@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	height: 100vh;
+	background-image: radial-gradient(circle at center center, rgb(49, 46, 46), rgb(22, 22, 22));
+	background-size: cover;
+	background-position: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#root {
+	height: 100%;
+	width: 100%;
+}
