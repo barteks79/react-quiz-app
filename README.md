@@ -1,11 +1,8 @@
-<div>
-    <img src="/public/homepage.jpg" />
-    <p align="center">
-        <img width="50%" src="/public/question-view-1.jpg" />
-        <img width="50%" src="/public/question-view-2.jpg" />
-    </p>
-</div>
+# React Quiz App
 
+Solve quizzes and check the results afterwards.
+
+<img src="/public/homepage.jpg" />
 
 # 🚀 Getting Started Guide
 
